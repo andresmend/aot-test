@@ -1,0 +1,8 @@
+{
+    "require": {
+        "stichoza/google-translate-php": "^4.1",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.4",
+        "slim/php-view": "^3.1"
+    }
+}

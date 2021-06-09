@@ -1,15 +1,20 @@
 # aot-test
  This is my solution for the AOT Test.
  
- # Requirements to install
+ # Requirements
+ - XAMPP
+ - Composer
+ - Browser
+ 
+# Installation
  I used the following software:
- - Local development with XAMPP. Create a folder named AOT under htdocs.
- - Slim PHP Framework (https://www.slimframework.com). Can be installes via composer:
+ - In XAMPP, create a folder named AOT under htdocs.
+ - Install Slim PHP Framework (https://www.slimframework.com). Can be installed via composer:
  ```
  composer require slim/slim:"4.*"
 ```
 
-- Slim components: PSR7 and PHP-View. The fist one can be installed with:
+- Install Slim components: PSR7 and PHP-View. The fist one can be installed with:
 ```
 composer require slim/psr7
 ```
